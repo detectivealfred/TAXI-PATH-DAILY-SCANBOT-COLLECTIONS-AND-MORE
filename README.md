@@ -1,3 +1,8 @@
+
+Everything I've been working on for the past several months will be shared here in the coming days.
+
+
+
 ## NexusForever
 [![Discord](https://img.shields.io/discord/499473932131500034.svg?style=flat&logo=discord)](https://discord.gg/8wT3GEQ)
 
