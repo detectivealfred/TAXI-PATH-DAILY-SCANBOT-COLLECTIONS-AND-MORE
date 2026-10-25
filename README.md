@@ -1,5 +1,5 @@
 
-Everything I've been working on for the past several months will be shared here in the coming days.
+Everything I've been working on for the past several months will be shared here in the coming week.
 
 
 
